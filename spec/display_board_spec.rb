@@ -183,7 +183,7 @@ describe "#display_board in 'lib/display_board.rb" do
 
       # *** Comment the line below by adding a # at the line start ***
       #expect(true).to be(true)
-    
+
 
     it 'prints an entire board full of Os' do
       # Can you copy the syntax of the tests above to write a test for a board
